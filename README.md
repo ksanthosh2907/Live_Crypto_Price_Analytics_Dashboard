@@ -6,17 +6,17 @@ It also includes a prediction model to estimate the next 5 hours of prices.
 
 ##  🚀 Features
 
-# 📈 Live Price Line Chart (last 5 hours)
+ 📈 Live Price Line Chart (last 5 hours)
 
-# 🔎 Outlier Detection (sudden spikes/drops)
+ 🔎 Outlier Detection (sudden spikes/drops)
 
-# 💱 Currency Conversion (INR, USD, GBP)
+ 💱 Currency Conversion (INR, USD, GBP)
 
-# 🔄 Yesterday Comparison (visualized in charts)
+ 🔄 Yesterday Comparison (visualized in charts)
 
-# 🤖 Prediction Model (next 5 hours using Linear Regression)
+ 🤖 Prediction Model (next 5 hours using Linear Regression)
 
-# 🌐 Deployed on Streamlit Cloud
+ 🌐 Deployed on Streamlit Cloud
 
 
 ## 🛠️ Tech Stack
@@ -46,7 +46,7 @@ streamlit run crypto_dashboard.py
 
 ## 🌍 Live Demo
 
-🔗 (Crypto Dashboard on Streamlit)
+🔗 (Crypto Dashboard on Streamlit)[https://livecryptopriceanalyticsdashboard-zudt484xnmjsv7nwnmrxqf.streamlit.app/]
 
 ## 📸 Screenshots
 
